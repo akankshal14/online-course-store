@@ -52,7 +52,6 @@ It allows **instructors** to create and sell courses, and **learners** to browse
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/your-username/online-course-store.git
 cd online-course-store
 ###2️⃣ Setup Backend
