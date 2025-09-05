@@ -52,10 +52,12 @@ It allows **instructors** to create and sell courses, and **learners** to browse
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/your-username/online-course-store.git
 cd online-course-store
+```
 ###2️⃣ Setup Backend
-
+```bash
 - Create a .env file inside the server folder and add:
 
 PORT=8080
@@ -75,13 +77,14 @@ WEBHOOK_ENDPOINT_SECRET=
 cd server
 npm install
 npm run dev
-
+```
 ###3️⃣ Setup Frontend
+```bash
 cd client
 npm install
 npm run dev
-
-###4️⃣ Access the App
+```
+4️⃣ Access the App
 
 Frontend: 👉 http://localhost:5173
 
